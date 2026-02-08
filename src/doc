@@ -2035,6 +2035,7 @@ Commands for handling cell content:
 
     Other available commands for scripting are:
 
+    MOVETOSHEET {name}
     DETAIL {var}
     LEFTSTRING {var_or_range}
     RIGHTSTRING {var_or_range}
